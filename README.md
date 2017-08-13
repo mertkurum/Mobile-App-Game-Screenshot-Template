@@ -22,3 +22,7 @@ http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-p
 
 
 ![alt text](https://image.ibb.co/f9fgRa/dest.png)
+
+
+# License
+This template is created to help people create screenshots easily for stores, therefore anything you create with the templates is free. No license required.
