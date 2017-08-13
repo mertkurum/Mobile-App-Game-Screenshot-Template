@@ -7,6 +7,7 @@ Modify your screenshots and make ready to be uploaded to AppStore or Google Play
 There are also some other templates on the internet but They are not useful for me anymore. However, they helped me to create this one so I want to link them here also.
 
 [by Srdjan Lukic-Bardak](https://dribbble.com/shots/1785333-AppStore-Screenshot-Template-PSD)
+&
 [by Matthew Stephens](https://dribbble.com/shots/2153799-App-Store-Screenshots-Template-PSD-CC-2015)
 
 
