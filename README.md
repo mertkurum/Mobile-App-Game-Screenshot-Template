@@ -13,8 +13,7 @@ There are also some other templates on the internet but They are not useful for 
 # Example
 iPhone 6s Plus (5.5 inc display)
 
-![alt text](https://github.com/mertkurum/Mobile-App-Game-Screenshot-Template/blob/master/Example/iphone6plus-screen1.jpg?raw=true "5.5 inc Screenshot")
-
+<img src="https://github.com/mertkurum/Mobile-App-Game-Screenshot-Template/blob/master/Example/iphone6plus-screen1.jpg?raw=true" width="360">
 
 # Instructions
 Edit you contents and export with Photoshop's Asset Generator. ( Asset Generator plugin is available in photoshop version 14.1 or higher)
