@@ -2,7 +2,7 @@
 
 [Download Link](soon)
 
-Modify your screenshots and make ready to be uploaded to AppStore or Google Play in 5 mins. As a game programmer, creating screenshots for stores were a nightmare to me. 
+Modify your screenshots and make ready to be uploaded to AppStore or Google Play in 5 mins. As a game programmer, creating screenshots for stores was a nightmare for me. So, I have created this template to create screenshots easily.
 
 There are also some other templates on the internet but They are not useful for me anymore. However, they helped me to create this one so I want to link them here also.
 
