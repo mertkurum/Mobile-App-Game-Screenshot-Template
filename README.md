@@ -1,4 +1,7 @@
 # Mobile App Game Screenshot Template for Photoshop
+
+[Download Link](soon)
+
 Modify your screenshots and make ready to be uploaded to AppStore or Google Play in 5 mins. As a game programmer, creating screenshots for stores were a nightmare to me. 
 
 There are also some other templates on the internet but They are not useful for me anymore. However, they helped me to create this one so I want to link them here also.
@@ -14,6 +17,3 @@ http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-p
 
 
 ![alt text](https://image.ibb.co/f9fgRa/dest.png)
-
-
-Ps. I am not photoshop expert :) Feel free to make changes and upload here. 
