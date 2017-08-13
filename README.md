@@ -16,7 +16,7 @@ iPhone 6s Plus (5.5 inc display)
 <img src="https://github.com/mertkurum/Mobile-App-Game-Screenshot-Template/blob/master/Example/iphone6plus-screen1.jpg?raw=true" width="360">
 
 # Instructions
-Edit you contents and export with Photoshop's Asset Generator. ( Asset Generator plugin is available in photoshop version 14.1 or higher)
+Edit your contents and export with Photoshop's Asset Generator. ( Asset Generator plugin is available in photoshop version 14.1 or higher)
 
 http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html
 
